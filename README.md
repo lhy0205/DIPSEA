@@ -6,6 +6,8 @@ Deep-learning model for interacting with poetry, sound, emotion and animation.
 DIPSEA는 사용자의 음성 입력을 기반으로 감정을 분석하고,
 해당 감정에 맞는 시를 생성한 뒤 음성 합성과 영상/애니메이션 형태로 출력하는 AI 융합 프로젝트입니다.
 
+
+
 ## 2. 개발 목적
 감정 기반 음성 합성을 활용하여 사용자가 자신의 감정을 더 직관적으로 표현하고,
 개인화된 콘텐츠를 제공받을 수 있는 소통 도구를 개발하는 것을 목표로 합니다.
@@ -51,7 +53,7 @@ EXAONE 계열 모델을 기반으로 감정 표현, 운율, 시적 구조를 반
 Typecast TTS API를 사용하여 감정별 음성 스타일을 적용했습니다.
 
 ## 7. 실행 방법
-
+모델은 포함이 안되어있어서 실행은 안됩니다.
 ```bash
 git clone https://github.com/lhy0205/DIPSEA.git
 cd DIPSEA
