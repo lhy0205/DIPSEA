@@ -53,7 +53,7 @@ Typecast TTS API를 사용하여 감정별 음성 스타일을 적용했습니�
 ## 7. 실행 방법
 
 ```bash
-git clone https://github.com/사용자명/DIPSEA.git
+git clone https://github.com/lhy0205/DIPSEA.git
 cd DIPSEA
 pip install -r requirements.txt
 python app.py
